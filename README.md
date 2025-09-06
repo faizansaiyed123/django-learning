@@ -15,3 +15,4 @@ django-admin startproject ch1
 
 2️⃣ Run the Development Server
 python manage.py runserver
+
