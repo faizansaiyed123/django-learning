@@ -16,3 +16,10 @@ django-admin startproject ch1
 2️⃣ Run the Development Server
 python manage.py runserver
 
+3️⃣ python manage.py makemigrations
+
+4️⃣ python manage.py migrate
+
+5️⃣ python manage.py showmigrations
+
+6️⃣ python manage.py createsuperuser
